@@ -43,7 +43,7 @@
                     </li>
                     <li>
                         Forward the requests and you will have the answer for the task. <br>
-                        <img src="./img/burp3.png" alt="burp3" width="500"> <br>
+                        <img src="./img/burp3.png" alt="burp3" width="300"> <br>
                         Don't use <code>admin</code> for username or you will get a different username after the injection.
                     </li>
                 </ul>
@@ -64,7 +64,8 @@
                         Go to repeater tab.
                     </li>
                     <li>
-                        Add <code>[$nin][]</code> after <code>user</code> and <code>pass</code>
+                        Add <code>[$nin][]</code> after <code>user</code> and <code>pass</code> <br>
+                        <img src="./img/burp4.png" alt="burp4" width="500">
                     </li>
                 </ul>
             </li>
