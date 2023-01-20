@@ -24,8 +24,11 @@
             <li>
                 <strong>When bypassing the login screen using the $ne operator, which user are you logged in as?</strong>
                 <ul>
-                    <li>Start Machine</li>
-                    <li>Open webpage</li>
+                    <li>
+                        Start Machine<br>
+                        <img src="./img/startMachine.png" alt="startMachine">
+                    </li>
+                    <li>Open the ip on firefox</li>
                 </ul>
             </li>
         </ol>
