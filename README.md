@@ -97,7 +97,7 @@
         <h3>Task 4:</h3>
         <strong>You can read the task description and understand how we are going to brute force the password length first and then the password itself. Doing that manually can be a pain in the A**.</strong>
         To save my time i wrote a pytohn script which will do the hard word for us. It's in my repository. I have added comments to explain how it works in there. <br>
-        <link rel="stylesheet" href="https://github.com/vikashkr99/pythonScripts/blob/main/nosqlPasswordBrute.py">
+        <a href="https://github.com/vikashkr99/pythonScripts/blob/main/nosqlPasswordBrute.py">PythonScript</a>
         copy the code from here.
         <ol type="1">
             <li>What is john's password?</li>
