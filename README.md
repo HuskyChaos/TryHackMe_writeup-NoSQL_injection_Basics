@@ -93,7 +93,7 @@
             Run the script like this.<br>
             <code> python3 nosqlPasswordBrute.py --host machineIp --user userName </code><br>
             and it will give you the password for that user.
-            <img src="./img/script1.png" alt="script1">
+            <img src="./img/script1.png" alt="script1"><br>
             <strong>Ans :</strong> <code> 10584312 </code>
         </h4>
     </li>
