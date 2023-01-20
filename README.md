@@ -66,7 +66,7 @@
                     </li>
                     <li>
                         Add <code>[$nin][]</code> after <code>user</code> and <code>pass</code> <br>
-                        <img src="./img/burp4.png" alt="burp4" width="400">
+                        <img src="./img/burp41.png" alt="burp41" width="400">
                     </li>
                 </ul>
             </li>
