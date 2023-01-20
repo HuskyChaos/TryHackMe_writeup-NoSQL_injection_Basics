@@ -18,4 +18,16 @@
             </li>
         </ol>
     </li>
+    <li>
+        <h3>Task 3:</h3>
+        <ol type="1">
+            <li>
+                <strong>When bypassing the login screen using the $ne operator, which user are you logged in as?</strong>
+                <ul>
+                    <li>Start Machine</li>
+                    <li>Open webpage</li>
+                </ul>
+            </li>
+        </ol>
+    </li>
 </ul>
