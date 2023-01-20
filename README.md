@@ -5,7 +5,7 @@
         <h3>Task 1:</h3>
         <ol type="1">
             <li>
-                <strong>A group of documents in MongoDB is known as a...</strong>
+                <strong>A group of documents in MongoDB is known as a...</strong><br>
                 Ans: <code>collection</code>
             </li>
         </ol>
