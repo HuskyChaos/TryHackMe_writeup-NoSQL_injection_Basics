@@ -50,4 +50,17 @@
             </li>
         </ol>
     </li>
+    <li>
+        <h3>Task 4:</h3>
+        <ol type="1">
+            <strong>I will intercept the login request and send it to repeater so that i dont have to switch between firefox and burp all the time.</strong>
+            <li>
+                <strong>How many users are there in total?</strong>
+                
+            </li>
+            <li>
+                <strong>There is a user that starts with the letter "p". What is his username?</strong>
+            </li>
+        </ol>
+    </li>
 </ul>
