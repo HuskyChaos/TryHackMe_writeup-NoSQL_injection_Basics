@@ -90,8 +90,10 @@
     <li>
         <h4>
             What is john's password?<br>
+            Run the script like this.<br>
+            <code>python3 nosqlPasswordBrute.py --host machineIp --user userName</code>
+            <img src="./img/script1.png" alt="script1">
         </h4>
-        Run the script with machine ip and target username.
     </li>
     <li>One of the users seems to be reusing his password for many services. Find which one and connect through SSH to
         retrieve the final flag!</li>
