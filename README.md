@@ -38,10 +38,14 @@
                         <img src="./img/burpsuite1.png" alt="burpsuite1" width="500">
                     </li>
                     <li>
-                        Add <code>[$ne]</code> after <code>user</code> and <code>password</code><br>
+                        Add <code>[$ne]</code> after <code>user</code> and <code>pass</code><br>
                         <img src="./img/burp2.png" alt="burp2" width="500">
                     </li>
-
+                    <li>
+                        Forward the requests and you will have the answer for the task. <br>
+                        <img src="./img/burp3.png" alt="burp3" width="500"> <br>
+                        Don't use <code>admin</code> for username or you will get a different username after the injection.
+                    </li>
                 </ul>
             </li>
         </ol>
