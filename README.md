@@ -28,7 +28,14 @@
                         Start Machine<br>
                         <img src="./img/startMachine.png" alt="startMachine" width="600">
                     </li>
-                    <li>Open the ip on firefox</li>
+                    <li>Open the ip on browser</li>
+                    <li>
+                        Turn on burpsuite to intercept the login request.
+                    </li>
+                    <li>Enter random values inside input field and subimt.</li>
+                    <li>Switch to burpsuite where the request is intercepted <br>
+                        <img src="./img/burpsuite1.png" alt="burpsuite1" width="500">
+                    </li>
                 </ul>
             </li>
         </ol>
