@@ -52,10 +52,21 @@
     </li>
     <li>
         <h3>Task 4:</h3>
-        <strong>I will intercept the login request and send it to repeater so that i dont have to switch between firefox and burp all the time.</strong>
+        <strong>I will intercept the login request and send it to repeater so that i dont have to switch between firefox and burp all the time. Doing it with repeater will be easier</strong>
         <ol type="1">
             <li>
                 <strong>How many users are there in total?</strong>
+                <ul>
+                    <li>
+                        Right click on the intercepted request and click on <code>send to repeater.</code>
+                    </li>
+                    <li>
+                        Go to repeater tab.
+                    </li>
+                    <li>
+                        Add <code>[$nin][]</code> after <code>user</code> and <code>pass</code>
+                    </li>
+                </ul>
             </li>
             <li>
                 <strong>There is a user that starts with the letter "p". What is his username?</strong>
