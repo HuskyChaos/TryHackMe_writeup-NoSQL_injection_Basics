@@ -81,7 +81,7 @@
 <h2>Task 5:</h2>
 <strong>
     You can read the task description and understand how we are going to brute force the password length first and then
-    the password itself. Doing that manually can be painfull.So, to save my time i have written a pytohn script which will do the
+    the password itself. Doing that manually can be painfull. So, to save my time i have written a pytohn script which will do the
     hard word for us.<br>
     <code>wget https://raw.githubusercontent.com/vikashkr99/pythonScripts/main/nosqlPasswordBrute.py</code><br>
     I have added comments to explain how it works in there.
