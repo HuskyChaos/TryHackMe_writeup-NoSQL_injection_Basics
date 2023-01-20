@@ -65,8 +65,13 @@
                         Go to repeater tab.
                     </li>
                     <li>
-                        Add <code>[$nin][]</code> after <code>user</code> and <code>pass</code> <br>
+                        Add <code>[$nin][]</code> after <code>user</code> and <code>[$ne]</code> after <code>pass</code> <br>
                         <img src="./img/burp41.png" alt="burp41" width="400">
+                    </li>
+                    <li>
+                        Click on send and then you will see a button <code>Follow Redirection</code>. Click it. <br>
+                        You will see a new user name in the response tab now. <br>
+                        <img src="./img/burp6.png" alt="burp6" width="300">
                     </li>
                 </ul>
             </li>
