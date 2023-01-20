@@ -82,6 +82,9 @@
                         <img src="./img/burp7.png" alt="burp7" width="500"> <br>
                         And we have our 3rd user.
                     </li>
+                    <li>
+                        Append this user on top of these two and we will find that we are getting redirected to the login page which means there are 3 users.
+                    </li>
                 </ul>
             </li>
             <li>
