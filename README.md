@@ -3,5 +3,11 @@
 <ul>
     <li>
         <strong>Task 1:</strong>
+        <ol>
+            <li>
+                <strong>A group of documents in MongoDB is known as a...</strong>
+                Ans: <code>collection</code>
+            </li>
+        </ol>
     </li>
 </ul>
