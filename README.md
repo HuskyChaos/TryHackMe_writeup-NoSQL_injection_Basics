@@ -3,8 +3,8 @@
 <h2>Task 1:</h2>
 <ol type="1">
     <li>
-        <h4>A group of documents in MongoDB is known as a...</h4>
-        <h4><strong>Ans: </strong> Collection</h4>
+        <h3>A group of documents in MongoDB is known as a...</h3>
+        <h3><strong>Ans: </strong> Collection</h3>
     </li>
     <li>
         <strong>Using the MongoDB Operator Reference, find an operator to filter data when a field isn't equal to a given value</strong><br>
