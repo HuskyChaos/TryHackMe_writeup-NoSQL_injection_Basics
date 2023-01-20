@@ -2,7 +2,7 @@
 <img src="./img/logo.png" alt="logo" width="400">
 <ul>
     <li>
-        <strong>Task 1:</strong>
+        <h3>Task 1:</h3>
         <ol type="1">
             <li>
                 <strong>A group of documents in MongoDB is known as a...</strong>
