@@ -83,13 +83,13 @@
     You can read the task description and understand how we are going to brute force the password length first and then
     the password itself. Doing that manually can be painfull.So, to save my time i have written a pytohn script which will do the
     hard word for us.<br>
-    <code>whet https://raw.githubusercontent.com/vikashkr99/pythonScripts/main/nosqlPasswordBrute.py</code><br>
+    <code>wget https://raw.githubusercontent.com/vikashkr99/pythonScripts/main/nosqlPasswordBrute.py</code><br>
     I have added comments to explain how it works in there.
 </strong>
 <ol type="1">
     <li>
         <h4>
-            What is john's password?<br>
+            What is john's password?<br><br>
             Run the script like this.<br>
             <code>python3 nosqlPasswordBrute.py --host machineIp --user userName</code>
             <img src="./img/script1.png" alt="script1">
