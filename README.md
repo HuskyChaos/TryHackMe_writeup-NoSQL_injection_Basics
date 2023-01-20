@@ -2,6 +2,6 @@
 <img src="./img/logo.png" alt="logo" width="400">
 <ul>
     <li>
-        Task 1:
+        <strong>Task 1:</strong>
     </li>
 </ul>
