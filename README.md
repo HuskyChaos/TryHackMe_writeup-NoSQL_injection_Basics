@@ -56,7 +56,6 @@
         <ol type="1">
             <li>
                 <strong>How many users are there in total?</strong>
-
             </li>
             <li>
                 <strong>There is a user that starts with the letter "p". What is his username?</strong>
