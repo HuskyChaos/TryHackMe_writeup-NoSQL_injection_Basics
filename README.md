@@ -26,7 +26,7 @@
                 <ul>
                     <li>
                         Start Machine<br>
-                        <img src="./img/startMachine.png" alt="startMachine">
+                        <img src="./img/startMachine.png" alt="startMachine" width="600">
                     </li>
                     <li>Open the ip on firefox</li>
                 </ul>
