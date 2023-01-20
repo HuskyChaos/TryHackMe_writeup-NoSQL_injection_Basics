@@ -62,10 +62,6 @@
             <strong>Ans :</strong> <code> 3 </code>
         </h4>
         <strong>Watch this video for reference</strong><br>
-        <video width="320" height="240" controls>
-            Video 1
-            <source src="./img/burpV.mov" type="video/mp4">
-        </video>
     </li>
     <li>
         <h4>
