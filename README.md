@@ -2,10 +2,11 @@
 <img src="./img/logo.png" alt="logo" width="400">
 <ul>
     <li>
-        <h3>Task 1:</h3>
+        <h2>Task 1:</h2>
         <ol type="1">
             <li>
                 <strong>A group of documents in MongoDB is known as a...</strong><br>
+
                 <code>collection</code>
             </li>
             <li>
@@ -100,7 +101,10 @@
         <a href="https://github.com/vikashkr99/pythonScripts/blob/main/nosqlPasswordBrute.py">PythonScript</a>
         copy the code from here.
         <ol type="1">
-            <li>What is john's password?</li>
+            <li>
+                <strong>What is john's password?</strong> <br>
+                Run the script with machine ip and target username.
+            </li>
             <li>One of the users seems to be reusing his password for many services. Find which one and connect through SSH to retrieve the final flag!</li>
         </ol>
     </li>
