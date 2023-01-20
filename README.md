@@ -62,7 +62,7 @@
             <strong>Ans :</strong> <code> 3 </code>
         </h4>
         <strong>Watch this video for reference</strong><br>
-        <a href="https://github.com/vikashkr99/TryHackMe_writeup-NoSQL_injection_Basics/blob/main/img/burpV.mov">Video Link</a>
+        <a href="https://github.com/vikashkr99/TryHackMe_writeup-NoSQL_injection_Basics/blob/main/img/burpV.mov"> => Video Link</a>
     </li>
     <li>
         <h4>
