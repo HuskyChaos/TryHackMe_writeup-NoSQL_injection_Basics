@@ -89,12 +89,24 @@
 <ol type="1">
     <li>
         <h4>
-            What is john's password?<br><br>
+            What is john's password?<br>
             Run the script like this.<br>
-            <code>python3 nosqlPasswordBrute.py --host machineIp --user userName</code>
+            <code> python3 nosqlPasswordBrute.py --host machineIp --user userName </code><br>
+            and it will give you the password for that user.
             <img src="./img/script1.png" alt="script1">
+            <strong>Ans :</strong> <code> 10584312 </code>
         </h4>
     </li>
-    <li>One of the users seems to be reusing his password for many services. Find which one and connect through SSH to
-        retrieve the final flag!</li>
+    <li>
+        <h4>
+            One of the users seems to be reusing his password for many services. Find which one and connect through SSH to retrieve the final flag!<br>
+            <ul>
+                <li>Bruteforce passwords using the script for the remaining two users.</li>
+                <li>Try to login through ssh as <code>admin</code> <code>john</code> and <code>pedro</code> with their respective passwords.</li>
+                <li>pedro and his password works for ssh.</li>
+                <li><code>cat</code> the flag on desktop</li>
+            </ul>
+            <strong>Ans :</strong> <code>flag{N***********!}</code>
+        </h4>
+    </li>
 </ol>
