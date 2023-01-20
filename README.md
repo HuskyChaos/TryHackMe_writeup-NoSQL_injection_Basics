@@ -24,7 +24,16 @@
 <h2>Task 3:</h2>
 <ol type="1">
     <li>
-        <strong>When bypassing the login screen using the $ne operator, which user are you logged in as?</strong>
+        <h4>
+            When bypassing the login screen using the <code>$ne</code> operator, which user are you logged in as?
+            <ul>
+                <li>Start machine attached in task 2.</li>
+                <li>Visit the ip and you will see a login page.</li>
+                <li>Turn on burpsuite to intercept the login request.</li>
+                <li>Enter random values inside input fields. <strong>Dont use <code> admin </code> as username just yet</strong>.</li>
+            </ul>
+
+        </h4>
         <ul>
             <li>
                 Start Machine<br>
