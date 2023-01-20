@@ -77,6 +77,11 @@
                     <li>
                         Click on <code>&lt;</code> on the right of <code>cancel</code> button.
                     </li>
+                    <li>
+                        Append <code>&user[$nin][]=pedro</code> to find the third user.
+                        <img src="./img/burp7.png" alt="burp7" width="300"> <br>
+                        And we have our 3rd user.
+                    </li>
                 </ul>
             </li>
             <li>
