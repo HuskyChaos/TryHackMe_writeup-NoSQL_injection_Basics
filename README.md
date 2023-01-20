@@ -46,41 +46,29 @@
 <strong>I will intercept the login request and send it to repeater so that i dont have to switch between firefox and burp all the time. Doing it with repeater will be easier</strong>
 <ol type="1">
     <li>
-        <strong>How many users are there in total?</strong>
-        <ul>
-            <li>
-                Right click on the intercepted request and click on <code>send to repeater.</code> <br>
-                <img src="./img/burp5.png" alt="burp5" width="400">
-            </li>
-            <li>
-                Go to repeater tab.
-            </li>
-            <li>
-                Add <code>[$nin][]</code> after <code>user</code> and <code>[$ne]</code> after <code>pass</code> <br>
-                <img src="./img/burp41.png" alt="burp41" width="400">
-            </li>
-            <li>
-                Click on send and then you will see a button <code>Follow Redirection</code>. Click it. <br>
-                You will see a new user name in the response tab now. <br>
-                <img src="./img/burp6.png" alt="burp6" width="300"> <br>
-                This makes 2 users.
-            </li>
-            <li>
-                Click on <code>&lt;</code> on the right of <code>cancel</code> button.
-            </li>
-            <li>
-                Append <code>&user[$nin][]=pedro</code> to find the third user. <br>
-                <img src="./img/burp7.png" alt="burp7" width="500"> <br>
-                And we have our 3rd user.
-            </li>
-            <li>
-                Append this user on top of these two and we will find that we are getting redirected to the login page which means there are <code>3</code> users.
-            </li>
-        </ul>
+        <h4>
+            How many users are there in total?
+            <ul>
+                <li>Right click on the intercepted request in proxy and click on <code>send to repeater.</code> </li>
+                <li>Add <code>[$nin][]</code> after <code>user</code> and <code>[$ne]</code> after <code>pass</code></li>
+                <li>Click on send.</li>
+                <li>Click on <code> Follow Redirection </code></li>
+                <li>You will see a new user name in the response tab now.</li>
+                <li>This makes 2 users.</li>
+                <li>Click on <code>&lt;</code> on the right of <code>cancel</code> button.</li>
+                <li>Append <code>&user[$nin][]=pedro</code> to find the third user.</li>
+                <li>Append this user on top of these two and we will find that we are getting redirected to the login page.</li>
+            </ul>
+            <strong>Ans :</strong> <code> 3 </code>
+        </h4>
+        <strong>Watch this video for reference</strong><br>
+        <video src="./img/burpV.mov"></video>
     </li>
     <li>
-        <strong>There is a user that starts with the letter "p". What is his username?</strong> <br>
-        <code>pedro</code>
+        <h4>
+            There is a user that starts with the letter "p". What is his username?<br>
+            <strong>Ans :</strong> <code>pedro</code>
+        </h4>
     </li>
 </ol>
 </li>
