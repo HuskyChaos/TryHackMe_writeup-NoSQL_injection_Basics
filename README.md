@@ -71,7 +71,11 @@
                     <li>
                         Click on send and then you will see a button <code>Follow Redirection</code>. Click it. <br>
                         You will see a new user name in the response tab now. <br>
-                        <img src="./img/burp6.png" alt="burp6" width="300">
+                        <img src="./img/burp6.png" alt="burp6" width="300"> <br>
+                        This makes 2 users.
+                    </li>
+                    <li>
+                        Click on <code>&lt;</code> on the right of <code>cancel</code> button.
                     </li>
                 </ul>
             </li>
