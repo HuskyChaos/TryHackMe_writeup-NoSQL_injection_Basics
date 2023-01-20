@@ -44,7 +44,7 @@
 </ol>
 <h2>
     Task 4:<br>
-    <strong>I will intercept the login request and send it to repeater so that i dont have to switch between firefox and burp all the time. Doing it with repeater will be easier</strong>
+    <h3>I will intercept the login request and send it to repeater so that i dont have to switch between firefox and burp all the time. Doing it with repeater will be easier</h3>
 </h2>
 <ol type="1">
     <li>
