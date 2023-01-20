@@ -3,7 +3,7 @@
 <ul>
     <li>
         <strong>Task 1:</strong>
-        <ol>
+        <ol type="1">
             <li>
                 <strong>A group of documents in MongoDB is known as a...</strong>
                 Ans: <code>collection</code>
