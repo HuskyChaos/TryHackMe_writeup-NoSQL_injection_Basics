@@ -33,35 +33,13 @@
                 <li>Enter random values inside input fields. <strong>Dont use <code> admin </code> as username just yet</strong>.</li>
                 <li>Click on <code> login </code> and switch to burpsuite.</li>
                 <li>
-                    Add <code> [$ne] </code> after user and pass. <br>
+                    Add <code> [$ne] </code> after user and pass and send the request.<br>
                     <img src="./img/burp2.png" alt="burp2" width="500">
                 </li>
+                <li>Go back to browser.</li>
             </ul>
-
+            <strong>Ans :</strong> <code> admin </code>
         </h4>
-        <ul>
-            <li>
-                Start Machine<br>
-                <img src="./img/startMachine.png" alt="startMachine" width="600">
-            </li>
-            <li>Open the ip on browser</li>
-            <li>
-                Turn on burpsuite to intercept the login request.
-            </li>
-            <li>Enter random values inside input field and subimt.</li>
-            <li>
-                Switch to burpsuite where the request is intercepted <br>
-                <img src="./img/burpsuite1.png" alt="burpsuite1" width="500">
-            </li>
-            <li>
-                Add <code>[$ne]</code> after <code>user</code> and <code>pass</code><br>
-            </li>
-            <li>
-                Forward the requests and you will have the answer for the task. <br>
-                <img src="./img/burp3.png" alt="burp3" width="300"> <br>
-                Don't use <code>admin</code> for username or you will get a different username after the injection.
-            </li>
-        </ul>
     </li>
 </ol>
 <h2>Task 4:</h2>
