@@ -5,16 +5,20 @@
     <li>
         <h4>
             A group of documents in MongoDB is known as a... <br>
-            <strong>Ans: </strong> Collection
+            <strong>Ans :</strong> <code>Collection</code>
         </h4>
     </li>
     <li>
-        <strong>Using the MongoDB Operator Reference, find an operator to filter data when a field isn't equal to a given value</strong><br>
-        <code>$ne</code>
+        <h4>
+            Using the MongoDB Operator Reference, find an operator to filter data when a field isn't equal to a given value<br>
+            <strong>Ans :</strong> <code>$[ne]</code>
+        </h4>
     </li>
     <li>
-        <strong>A group of documents in MongoDB is known as a...</strong><br>
-        <code>0</code>
+        <h4>
+            Following the example of the 3 documents given before, how many documents would be returned by the following filter: ['gender' => ['$ne' => 'female'] , 'age' => ['$gt'=>'65'] ]<br>
+            <strong>Ans :</strong> <code>0</code>
+        </h4>
     </li>
 </ol>
 <h2>Task 3:</h2>
