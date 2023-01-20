@@ -58,14 +58,15 @@
                 <strong>How many users are there in total?</strong>
                 <ul>
                     <li>
-                        Right click on the intercepted request and click on <code>send to repeater.</code>
+                        Right click on the intercepted request and click on <code>send to repeater.</code> <br>
+                        <img src="./img/burp5.png" alt="burp5" width="400">
                     </li>
                     <li>
                         Go to repeater tab.
                     </li>
                     <li>
                         Add <code>[$nin][]</code> after <code>user</code> and <code>pass</code> <br>
-                        <img src="./img/burp4.png" alt="burp4" width="500">
+                        <img src="./img/burp4.png" alt="burp4" width="400">
                     </li>
                 </ul>
             </li>
